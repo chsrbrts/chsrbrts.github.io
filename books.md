@@ -1,5 +1,5 @@
 # Books
 
-Books I recommend.
+A mind deserves new ideas.
 
 I’m putting this shelf together. Recommendations coming soon.

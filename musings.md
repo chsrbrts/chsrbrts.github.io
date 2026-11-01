@@ -1,5 +1,5 @@
 # Musings
 
-Notes on AI, infrastructure, and building companies.
+A work in progress. More to come.
 
 The first post is on its way.

@@ -2,17 +2,25 @@
 
 San Francisco
 
-I’m an AI Ops Partner on the infrastructure team at a16z.
+I'm an AI Ops Partner on the AI Infra team at a16z.
 
-I help AI companies work through compute, deployment, and the practical challenges of building.
+I partner with technical founders to build great companies.
 
 ## Previously
 
 - Northflank: Chief Operating Officer
 - Vertex Ventures: Venture investing
-- Box / Segment: Commercial roles
+- Box / Segment: Sales & BD
 
 Away from work, usually on a bike.
+
+“A puppet is free as long as he loves his strings.” -Sam Harris
+
+## Public links
+
+- [AI Infra](https://a16z.com/infra/)
+- [a16z](https://a16z.com/)
+- [bike](https://www.strava.com/athletes/chsrbrts)
 
 ## Contact
 
