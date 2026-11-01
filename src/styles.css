@@ -21,3 +21,5 @@ html[data-preview-scale="70"] dialog,html[data-preview-scale="70"] .skip{zoom:.7
 
 .footer-quote{margin:0;max-width:75%;line-height:1.5}footer{gap:24px}footer>a{flex-shrink:0}.role a,.personal a{text-decoration-thickness:1px;text-underline-offset:.14em}
 @media(max-width:760px){footer{align-items:flex-start;gap:18px}.footer-quote{max-width:70%}}
+
+@media(max-width:760px){footer{flex-wrap:wrap}.footer-quote{max-width:100%}}
