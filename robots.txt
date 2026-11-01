@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://chsrbrts.github.io/sitemap.xml

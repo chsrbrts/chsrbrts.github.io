@@ -1,0 +1,12 @@
+{
+  "name": "chase-roberts-site",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/render-pages.mjs",
+    "test": "node --test tests/content.test.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

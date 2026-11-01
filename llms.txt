@@ -1,0 +1,8 @@
+# Chase Roberts
+
+Personal site. All public content is available without JavaScript.
+
+- [Profile and experience](/index.md)
+- [Structured data](/profile.json)
+- [Books](/books.md)
+- [Musings](/musings.md)

@@ -1,0 +1,37 @@
+{
+  "name": "Chase Roberts",
+  "location": "San Francisco",
+  "jobTitle": "AI Ops Partner",
+  "team": "Infrastructure",
+  "organization": "Andreessen Horowitz",
+  "organizationShort": "a16z",
+  "role": "I’m an AI Ops Partner on the infrastructure team at a16z.",
+  "intro": "I help AI companies work through compute, deployment, and the practical challenges of building.",
+  "personal": "Away from work, usually on a bike.",
+  "experience": [
+    {
+      "organization": "Northflank",
+      "role": "Chief Operating Officer"
+    },
+    {
+      "organization": "Vertex Ventures",
+      "role": "Venture investing"
+    },
+    {
+      "organization": "Box / Segment",
+      "role": "Commercial roles"
+    }
+  ],
+  "contact": [
+    {
+      "label": "LinkedIn",
+      "url": "https://www.linkedin.com/in/chasecroberts/"
+    },
+    {
+      "label": "X",
+      "url": "https://x.com/chsrbrts"
+    }
+  ],
+  "books": [],
+  "musings": []
+}
