@@ -32,7 +32,643 @@
       "url": "https://x.com/chsrbrts"
     }
   ],
-  "books": [],
+  "books": [
+    {
+      "title": "1873: The Rothschilds, the First Great Depression, and the Making of the Modern World",
+      "author": "Liaquat Ahamed",
+      "url": "https://www.amazon.com/dp/1594204179"
+    },
+    {
+      "title": "1929: Inside the Greatest Crash in Wall Street History--and How It Shattered a Nation",
+      "author": "Andrew Ross Sorkin",
+      "url": "https://www.amazon.com/dp/0593296966"
+    },
+    {
+      "title": "Against the Gods: The Remarkable Story of Risk",
+      "author": "Peter L. Bernstein",
+      "url": "https://www.amazon.com/dp/0471295639"
+    },
+    {
+      "title": "Age of Revolutions: Progress and Backlash from 1600 to the Present",
+      "author": "Fareed Zakaria",
+      "url": "https://www.amazon.com/dp/1802065598"
+    },
+    {
+      "title": "The AGI Chronicles: The Inside Story of the Race to Create an Artificial Superintelligence",
+      "author": "Kevin Roose",
+      "url": "https://www.amazon.com/dp/0374618755"
+    },
+    {
+      "title": "Alibaba: The House That Jack Ma Built",
+      "author": "Duncan Clark",
+      "url": "https://www.amazon.com/dp/0062413414"
+    },
+    {
+      "title": "Amazon Unbound: Jeff Bezos and the Invention of a Global Empire",
+      "author": "Brad Stone",
+      "url": "https://www.amazon.com/dp/1982132612"
+    },
+    {
+      "title": "American Psycho (Vintage Contemporaries)",
+      "author": "Bret Easton Ellis",
+      "url": "https://www.amazon.com/dp/0679735771"
+    },
+    {
+      "title": "The Anarchy: The East India Company, Corporate Violence, and the Pillage of an Empire",
+      "author": "William Dalrymple",
+      "url": "https://www.amazon.com/dp/1635573955"
+    },
+    {
+      "title": "Apple in China: The Capture of the World's Greatest Company",
+      "author": "Patrick McGee",
+      "url": "https://www.amazon.com/dp/1668053373"
+    },
+    {
+      "title": "The Ascent of Money: A Financial History of the World",
+      "author": "Niall Ferguson",
+      "url": "https://www.amazon.com/dp/0143116177"
+    },
+    {
+      "title": "Astor: The Rise and Fall of an American Fortune",
+      "author": "Anderson Cooper, Katherine Howe",
+      "url": "https://www.amazon.com/dp/0062964666"
+    },
+    {
+      "title": "Astrophysics for People in a Hurry (Astrophysics for People in a Hurry Series)",
+      "author": "Neil de Grasse Tyson",
+      "url": "https://www.amazon.com/dp/0393609391"
+    },
+    {
+      "title": "Barbarians at the Gate: The Inside Story of America’s Most Notorious Corporate Takeover",
+      "author": "Bryan Burrough, John Helyar",
+      "url": "https://www.amazon.com/dp/0060920386"
+    },
+    {
+      "title": "Barons: Money, Power, and the Corruption of America's Food Industry",
+      "author": "Austin Frerick, Eric Schlosser - foreword by",
+      "url": "https://www.amazon.com/dp/1642834440"
+    },
+    {
+      "title": "Behave: The Biology of Humans at Our Best and Worst",
+      "author": "Robert M. Sapolsky",
+      "url": "https://www.amazon.com/dp/1594205078"
+    },
+    {
+      "title": "The Big Short: Inside the Doomsday Machine",
+      "author": "Michael Lewis",
+      "url": "https://www.amazon.com/dp/0141043539"
+    },
+    {
+      "title": "The Billionaire's Apprentice: The Rise of The Indian-American Elite and The Fall of The Galleon Hedge Fund",
+      "author": "Anita Raghavan",
+      "url": "https://www.amazon.com/dp/1455504017"
+    },
+    {
+      "title": "The Billionaire's Vinegar: The Mystery of the World's Most Expensive Bottle of Wine",
+      "author": "Benjamin Wallace",
+      "url": "https://www.amazon.com/dp/0307338789"
+    },
+    {
+      "title": "A Bite-Sized History of France: Gastronomic Tales of Revolution, War, and Enlightenment",
+      "author": "Stéphane Hénaut",
+      "url": "https://www.amazon.com/dp/1620972514"
+    },
+    {
+      "title": "Blue Trout and Black Truffles: The Peregrinations of an Epicure",
+      "author": "Joseph Wechsberg",
+      "url": "https://www.amazon.com/dp/0897331346"
+    },
+    {
+      "title": "The Book: On the Taboo Against Knowing Who You Are",
+      "author": "Alan Watts",
+      "url": "https://www.amazon.com/dp/0679723005"
+    },
+    {
+      "title": "Boomerang: Travels in the New Third World",
+      "author": "Michael Lewis",
+      "url": "https://www.amazon.com/dp/1846144841"
+    },
+    {
+      "title": "Brunelleschi's Dome: How a Renaissance Genius Reinvented Architecture",
+      "author": "Ross King",
+      "url": "https://www.amazon.com/dp/0099526786"
+    },
+    {
+      "title": "Buffett: The Making of an American Capitalist",
+      "author": "Roger Lowenstein",
+      "url": "https://www.amazon.com/dp/0812979273"
+    },
+    {
+      "title": "Cable Cowboy: John Malone and the Rise of the Modern Cable Business",
+      "author": "Mark Robichaux",
+      "url": "https://www.amazon.com/dp/0470232668"
+    },
+    {
+      "title": "Caesar and Christ: The Story of Civilization, Volume 3",
+      "author": "Will Durant",
+      "url": "https://www.amazon.com/dp/0671115006"
+    },
+    {
+      "title": "The Cartiers: The Untold Story of the Family Behind the Jewelry Empire",
+      "author": "Francesca Cartier Brickell",
+      "url": "https://www.amazon.com/dp/0525621636"
+    },
+    {
+      "title": "The Case Against Reality: Why Evolution Hid the Truth from Our Eyes",
+      "author": "Donald D. Hoffman",
+      "url": "https://www.amazon.com/dp/0241262623"
+    },
+    {
+      "title": "Chaos Monkeys: Obscene Fortune and Random Failure in Silicon Valley",
+      "author": "Antonio Garcia Martinez",
+      "url": "https://www.amazon.com/dp/0062458205"
+    },
+    {
+      "title": "The Conquest of the Incas",
+      "author": "John Hemming",
+      "url": "https://www.amazon.com/dp/0156028263"
+    },
+    {
+      "title": "Conscious: A Brief Guide to the Fundamental Mystery of the Mind — A Mind-Expanding Brain Science Primer",
+      "author": "Annaka Harris",
+      "url": "https://www.amazon.com/dp/0062906712"
+    },
+    {
+      "title": "A Cook's Tour: Global Adventures in Extreme Cuisines",
+      "author": "Anthony Bourdain",
+      "url": "https://www.amazon.com/dp/0060012781"
+    },
+    {
+      "title": "Cork Dork: A Wine-Fueled Adventure Among the Obsessive Sommeliers, Big Bottle Hunters, and Rogue Scientists Who Taught Me to Live for Taste",
+      "author": "Bianca Bosker",
+      "url": "https://www.amazon.com/dp/0143128094"
+    },
+    {
+      "title": "Dark Money: The Hidden History of the Billionaires Behind the Rise of the Radical Right",
+      "author": "Jane Mayer",
+      "url": "https://www.amazon.com/dp/0385535597"
+    },
+    {
+      "title": "Destiny of the Republic: A Tale of Madness, Medicine and the Murder of a President",
+      "author": "Candice Millard",
+      "url": "https://www.amazon.com/dp/0385535007"
+    },
+    {
+      "title": "Dominion: How the Christian Revolution Remade the World",
+      "author": "Tom Holland",
+      "url": "https://www.amazon.com/dp/0465093507"
+    },
+    {
+      "title": "Educated: A Memoir",
+      "author": "Tara Westover",
+      "url": "https://www.amazon.com/dp/1984854852"
+    },
+    {
+      "title": "Einstein: His Life and Universe",
+      "author": "Walter Isaacson",
+      "url": "https://www.amazon.com/dp/0743264746"
+    },
+    {
+      "title": "Endurance: Shackleton's Incredible Voyage",
+      "author": "Alfred Lansing",
+      "url": "https://www.amazon.com/dp/0786708425"
+    },
+    {
+      "title": "Enzo Ferrari: The definitive biography of an icon",
+      "author": "Luca Dal Monte",
+      "url": "https://www.amazon.com/dp/1788404750"
+    },
+    {
+      "title": "The Everything Store: Jeff Bezos and the Age of Amazon",
+      "author": "Brad Stone",
+      "url": "https://www.amazon.com/dp/0316377554"
+    },
+    {
+      "title": "The Fall of the Pagans and the Origins of Medieval Christianity",
+      "author": "Kenneth W. Harl, The Great Courses",
+      "url": "https://www.amazon.com/dp/1598037986"
+    },
+    {
+      "title": "Father, Son & Co.: My Life at IBM and Beyond",
+      "author": "Thomas J. Watson, Peter Petre",
+      "url": "https://www.amazon.com/dp/0553380834"
+    },
+    {
+      "title": "The Fish That Ate the Whale: The Life and Times of America's Banana King",
+      "author": "Rich Cohen",
+      "url": "https://www.amazon.com/dp/0224096575"
+    },
+    {
+      "title": "The Founders: The Story of Paypal and the Entrepreneurs Who Shaped Silicon Valley",
+      "author": "Jimmy Soni",
+      "url": "https://www.amazon.com/dp/1501197266"
+    },
+    {
+      "title": "The Four Horsemen: The Conversation That Sparked an Atheist Revolution",
+      "author": "Christopher Hitchens, Richard Dawkins, Sam Harris, Daniel Dennett",
+      "url": "https://www.amazon.com/dp/0525511954"
+    },
+    {
+      "title": "Free Will",
+      "author": "Sam Harris",
+      "url": "https://www.amazon.com/dp/1451683405"
+    },
+    {
+      "title": "French Wine: A History",
+      "author": "Rod Phillips",
+      "url": "https://www.amazon.com/dp/0520285239"
+    },
+    {
+      "title": "Ghost in the Wires: My Adventures as the World's Most Wanted Hacker",
+      "author": "Kevin Mitnick",
+      "url": "https://www.amazon.com/dp/0316037702"
+    },
+    {
+      "title": "The God Delusion: A Study of Religious Belief and Skepticism",
+      "author": "Richard Dawkins",
+      "url": "https://www.amazon.com/dp/0618680004"
+    },
+    {
+      "title": "God Is Not Great: How Religion Poisons Everything",
+      "author": "Christopher Hitchens",
+      "url": "https://www.amazon.com/dp/0446579807"
+    },
+    {
+      "title": "The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers—Straight Talk on the Challenges of Entrepreneurship",
+      "author": "Ben Horowitz",
+      "url": "https://www.amazon.com/dp/0062273205"
+    },
+    {
+      "title": "Hatching Twitter: A True Story of Money, Power, Friendship, and Betrayal",
+      "author": "Nick Bilton",
+      "url": "https://www.amazon.com/dp/1591846013"
+    },
+    {
+      "title": "Henry V: The Astonishing Triumph of England's Greatest Warrior King",
+      "author": "Dan Jones",
+      "url": "https://www.amazon.com/dp/1035910810"
+    },
+    {
+      "title": "Hero of the Empire: The Boer War, a Daring Escape, and the Making of Winston Churchill",
+      "author": "Candice Millard",
+      "url": "https://www.amazon.com/dp/0307948781"
+    },
+    {
+      "title": "High Output Management",
+      "author": "Andrew S. Grove",
+      "url": "https://www.amazon.com/dp/0679762884"
+    },
+    {
+      "title": "A History of the United States in Five Crashes: Stock Market Meltdowns That Defined a Nation",
+      "author": "Scott Nations",
+      "url": "https://www.amazon.com/dp/006246728X"
+    },
+    {
+      "title": "The House of Morgan: An American Banking Dynasty and the Rise of Modern Finance",
+      "author": "Ron Chernow",
+      "url": "https://www.amazon.com/dp/0802138292"
+    },
+    {
+      "title": "How Jesus Became God: A Study of the Historical Development of Jesus's Divinity",
+      "author": "Bart D. Ehrman",
+      "url": "https://www.amazon.com/dp/0061778184"
+    },
+    {
+      "title": "How the Internet Happened: From Netscape to the iPhone",
+      "author": "Brian McCullough",
+      "url": "https://www.amazon.com/dp/1631493078"
+    },
+    {
+      "title": "How to Build a Car: The Autobiography of the World’s Greatest Formula 1 Designer",
+      "author": "Adrian Newey, David Coulthard - introduction",
+      "url": "https://www.amazon.com/dp/000819680X"
+    },
+    {
+      "title": "How to Change Your Mind: What the New Science of Psychedelics Teaches Us About Consciousness, Dying, Addiction, Depression, and Transcendence",
+      "author": "Michael Pollan",
+      "url": "https://www.amazon.com/dp/0735224153"
+    },
+    {
+      "title": "How to Decide: Simple Tools for Making Better Choices",
+      "author": "Annie Duke",
+      "url": "https://www.amazon.com/dp/0593418484"
+    },
+    {
+      "title": "How to Invest",
+      "author": "David M. Rubenstein",
+      "url": "https://www.amazon.com/dp/1982190329"
+    },
+    {
+      "title": "The Idea Factory: Bell Labs and the Great Age of American Innovation",
+      "author": "Jon Gertner",
+      "url": "https://www.amazon.com/dp/0143122797"
+    },
+    {
+      "title": "In the Plex: How Google Thinks, Works, and Shapes Our Lives",
+      "author": "Steven Levy",
+      "url": "https://www.amazon.com/dp/1416596585"
+    },
+    {
+      "title": "The Infinity Machine: Demis Hassabis, DeepMind, and the Quest for Superintelligence",
+      "author": "Sebastian Mallaby",
+      "url": "https://www.amazon.com/dp/0593831845"
+    },
+    {
+      "title": "The Innovator's Dilemma with Award-Winning Harvard Business Review Article ?How Will You Measure Your Life?? (2 Items)",
+      "author": "Clayton",
+      "url": "https://www.amazon.com/dp/B0083JC33W"
+    },
+    {
+      "title": "The Innovator's Solution: Creating and Sustaining Successful Growth",
+      "author": "Clayton M. Christensen, Michael E. Raynor",
+      "url": "https://www.amazon.com/dp/1578518520"
+    },
+    {
+      "title": "The Innovators: How a Group of Hackers, Geniuses, and Geeks Created the Digital Revolution",
+      "author": "Walter Isaacson",
+      "url": "https://www.amazon.com/dp/147670869X"
+    },
+    {
+      "title": "Judgment of Paris: California vs. France and the Historic 1976 Paris Tasting That Revolutionized Wine (A Gift for Wine Lovers)",
+      "author": "George M. Taber",
+      "url": "https://www.amazon.com/dp/0743297326"
+    },
+    {
+      "title": "Julius Caesar (Gift for History Buffs)",
+      "author": "Philip Freeman",
+      "url": "https://www.amazon.com/dp/0743289536"
+    },
+    {
+      "title": "Killers of the Flower Moon: The Osage Murders and the Birth of the FBI",
+      "author": "David Grann",
+      "url": "https://www.amazon.com/dp/0307742482"
+    },
+    {
+      "title": "King of Capital: The Remarkable Rise, Fall, and Rise Again of Steve Schwarzman and Blackstone",
+      "author": "David Carey, John E. Morris",
+      "url": "https://www.amazon.com/dp/0307886026"
+    },
+    {
+      "title": "Kitchen Confidential: the man behind the major motion picture TONY",
+      "author": "Anthony Bourdain",
+      "url": "https://www.amazon.com/dp/0747550727"
+    },
+    {
+      "title": "Kochland: The Secret History of Koch Industries and Corporate Power in America",
+      "author": "Christopher Leonard",
+      "url": "https://www.amazon.com/dp/1476775397"
+    },
+    {
+      "title": "The Last Days of the Incas",
+      "author": "Kim MacQuarrie",
+      "url": "https://www.amazon.com/dp/0743260503"
+    },
+    {
+      "title": "Leonardo da Vinci",
+      "author": "Walter Isaacson",
+      "url": "https://www.amazon.com/dp/1501139150"
+    },
+    {
+      "title": "Letter to a Christian Nation",
+      "author": "Sam Harris",
+      "url": "https://www.amazon.com/dp/0307265773"
+    },
+    {
+      "title": "Liar's Poker (Norton Paperback)",
+      "author": "Michael Lewis",
+      "url": "https://www.amazon.com/dp/0393247147"
+    },
+    {
+      "title": "The Lives of the Caesars",
+      "author": "Suetonius",
+      "url": "https://www.amazon.com/dp/0143107704"
+    },
+    {
+      "title": "Losing the Signal: The Untold Story Behind the Extraordinary Rise and Spectacular Fall of BlackBerry",
+      "author": "Jacquie McNish, Sean Silcoff",
+      "url": "https://www.amazon.com/dp/1443436186"
+    },
+    {
+      "title": "The Machiavellians: Defenders of Freedom",
+      "author": "James Burnham",
+      "url": "https://www.amazon.com/dp/0895267853"
+    },
+    {
+      "title": "The Man from the Future: The Visionary Life of John von Neumann",
+      "author": "Ananyo Bhattacharya",
+      "url": "https://www.amazon.com/dp/0241398851"
+    },
+    {
+      "title": "The Man Who Knew Infinity: A Life of the Genius Ramanujan",
+      "author": "Robert Kanigel",
+      "url": "https://www.amazon.com/dp/0349142408"
+    },
+    {
+      "title": "The Man Who Solved the Market: How Jim Simons Launched the Quant Revolution",
+      "author": "Gregory Zuckerman",
+      "url": "https://www.amazon.com/dp/0241309727"
+    },
+    {
+      "title": "Man's Search for Meaning: An Introduction to Logotherapy",
+      "author": "Viktor E. Frankl",
+      "url": "https://www.amazon.com/dp/0807014273"
+    },
+    {
+      "title": "The Managerial Revolution: What is Happening in the World",
+      "author": "James Burnham",
+      "url": "https://www.amazon.com/dp/1839013184"
+    },
+    {
+      "title": "Marissa Mayer and the Fight to Save Yahoo!",
+      "author": "Nicholas Carlson",
+      "url": "https://www.amazon.com/dp/1455556610"
+    },
+    {
+      "title": "Michelangelo and the Pope's Ceiling",
+      "author": "Ross King",
+      "url": "https://www.amazon.com/dp/1844139328"
+    },
+    {
+      "title": "More Money Than God: Hedge Funds and the Making of a New Elite",
+      "author": "Sebastian Mallaby",
+      "url": "https://www.amazon.com/dp/0747592276"
+    },
+    {
+      "title": "Mother of God: An Extraordinary Journey into the Uncharted Tributaries of the Western Amazon",
+      "author": "Paul Rosolie",
+      "url": "https://www.amazon.com/dp/0062259520"
+    },
+    {
+      "title": "The Murder of the Century: The Gilded Age Crime That Scandalized a City & Sparked the Tabloid Wars",
+      "author": "Paul Collins",
+      "url": "https://www.amazon.com/dp/0307592200"
+    },
+    {
+      "title": "My Life and Work: An Autobiography of Henry Ford",
+      "author": "Henry Ford",
+      "url": "https://www.amazon.com/dp/0766127745"
+    },
+    {
+      "title": "Napoleon: A Life",
+      "author": "Andrew Roberts",
+      "url": "https://www.amazon.com/dp/0670025321"
+    },
+    {
+      "title": "Netflixed: The Epic Battle for America's Eyeballs",
+      "author": "Gina Keating",
+      "url": "https://www.amazon.com/dp/1591846595"
+    },
+    {
+      "title": "Night of January 16th",
+      "author": "Ayn Rand",
+      "url": "https://www.amazon.com/dp/0679390510"
+    },
+    {
+      "title": "Open",
+      "author": "Andre Agassi",
+      "url": "https://www.amazon.com/dp/0307268195"
+    },
+    {
+      "title": "The Order of Time",
+      "author": "Carlo Rovelli",
+      "url": "https://www.amazon.com/dp/0735216118"
+    },
+    {
+      "title": "The Power Broker: Robert Moses and the Fall of New York",
+      "author": "Robert A. Caro",
+      "url": "https://www.amazon.com/dp/0394480767"
+    },
+    {
+      "title": "Powers and Thrones: A New History of the Middle Ages",
+      "author": "Dan Jones",
+      "url": "https://www.amazon.com/dp/198488087X"
+    },
+    {
+      "title": "The President and the Assassin: McKinley, Terror, and Empire at the Dawn of the American Century",
+      "author": "Scott Miller",
+      "url": "https://www.amazon.com/dp/1400067529"
+    },
+    {
+      "title": "Principles: Life and Work",
+      "author": "Ray Dalio",
+      "url": "https://www.amazon.com/dp/1501124021"
+    },
+    {
+      "title": "The Qualified Sales Leader: Proven Lessons from a Five Time CRO",
+      "author": "John McMahon",
+      "url": "https://www.amazon.com/dp/0578895064"
+    },
+    {
+      "title": "Reality Is Not What It Seems: The Journey to Quantum Gravity",
+      "author": "Carlo Rovelli, Simon Carnell — Translator, Erica Segre — Translator",
+      "url": "https://www.amazon.com/dp/0735213933"
+    },
+    {
+      "title": "Red Notice: A True Story of High Finance, Murder, and One Man's Fight for Justice",
+      "author": "Bill Browder",
+      "url": "https://www.amazon.com/dp/1982136545"
+    },
+    {
+      "title": "The Ride of a Lifetime: Lessons Learned from 15 Years as CEO of the Walt Disney Company",
+      "author": "Robert Iger",
+      "url": "https://www.amazon.com/dp/0399592091"
+    },
+    {
+      "title": "The River of Doubt: Theodore Roosevelt's Darkest Journey",
+      "author": "Candice Millard",
+      "url": "https://www.amazon.com/dp/0767913736"
+    },
+    {
+      "title": "River of the Gods: Genius, Courage, and Betrayal in the Search for the Source of the Nile",
+      "author": "Candice Millard",
+      "url": "https://www.amazon.com/dp/0525435646"
+    },
+    {
+      "title": "Rubicon: The Last Years of the Roman Republic",
+      "author": "Tom Holland",
+      "url": "https://www.amazon.com/dp/1400078970"
+    },
+    {
+      "title": "Sapiens: A Brief History of Humankind – The #1 New York Times Bestseller Exploring How We Became Ruler of the Planet",
+      "author": "Yuval Noah Harari",
+      "url": "https://www.amazon.com/dp/0099590085"
+    },
+    {
+      "title": "Skunk Works: A Personal Memoir of My Years of Lockheed",
+      "author": "Ben R. Rich, Leo Janos",
+      "url": "https://www.amazon.com/dp/0316743003"
+    },
+    {
+      "title": "The Swerve: How the World Became Modern",
+      "author": "Stephen Greenblatt",
+      "url": "https://www.amazon.com/dp/0393064476"
+    },
+    {
+      "title": "That Will Never Work: The Birth of Netflix and the Amazing Life of an Idea",
+      "author": "Marc Randolph",
+      "url": "https://www.amazon.com/dp/0316530182"
+    },
+    {
+      "title": "Thinking in Bets: Making Smarter Decisions When You Don't Have All the Facts",
+      "author": "Annie Duke",
+      "url": "https://www.amazon.com/dp/0735216371"
+    },
+    {
+      "title": "Too Big to Fail: The Inside Story of How Wall Street and Washington Fought to Save the Financial System--and Themselves",
+      "author": "Andrew Ross Sorkin",
+      "url": "https://www.amazon.com/dp/0143120271"
+    },
+    {
+      "title": "Trillion Dollar Coach: The Leadership Playbook of Silicon Valley's Bill Campbell",
+      "author": "Eric Schmidt, Jonathan Rosenberg, Alan Eagle",
+      "url": "https://www.amazon.com/dp/0062839268"
+    },
+    {
+      "title": "Undeniable: Evolution and the Science of Creation",
+      "author": "Bill Nye, Corey S. Powell",
+      "url": "https://www.amazon.com/dp/1466869887"
+    },
+    {
+      "title": "Waking Up: A Guide to Spirituality Without Religion",
+      "author": "Sam Harris",
+      "url": "https://www.amazon.com/dp/1451636016"
+    },
+    {
+      "title": "War on Peace: The End of Diplomacy and the Decline of American Influence",
+      "author": "Ronan Farrow",
+      "url": "https://www.amazon.com/dp/0393652106"
+    },
+    {
+      "title": "What It Takes: Lessons in the Pursuit of Excellence",
+      "author": "Stephen A. Schwarzman",
+      "url": "https://www.amazon.com/dp/1501158147"
+    },
+    {
+      "title": "What You Do Is Who You Are: How to Create Your Business Culture",
+      "author": "Ben Horowitz",
+      "url": "https://www.amazon.com/dp/0008356114"
+    },
+    {
+      "title": "When Genius Failed: The Rise and Fall of Long-Term Capital Management",
+      "author": "Roger Lowenstein",
+      "url": "https://www.amazon.com/dp/0375758259"
+    },
+    {
+      "title": "Who Is Michael Ovitz?",
+      "author": "Michael Ovitz",
+      "url": "https://www.amazon.com/dp/0753553384"
+    },
+    {
+      "title": "Zealot: The Life and Times of Jesus of Nazareth",
+      "author": "Reza Aslan",
+      "url": "https://www.amazon.com/dp/140006922X"
+    },
+    {
+      "title": "Zero to One: Notes on Startups, or How to Build the Future",
+      "author": "Peter Thiel, Blake Masters",
+      "url": "https://www.amazon.com/dp/0804139296"
+    }
+  ],
   "musings": [],
   "booksDescription": "A mind deserves new ideas.",
   "musingsDescription": "A work in progress. More to come.",
