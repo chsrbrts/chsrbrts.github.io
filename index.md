@@ -2,9 +2,9 @@
 
 San Francisco
 
-I'm an AI Ops Partner on the AI Infra team at a16z.
+I'm an AI Ops Partner on the AI Infra investing team at a16z.
 
-I partner with technical founders to build great companies.
+I partner with technical founders to build great companies. Building, not investing.
 
 ## Previously
 

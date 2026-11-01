@@ -23,3 +23,6 @@ html[data-preview-scale="70"] dialog,html[data-preview-scale="70"] .skip{zoom:.7
 @media(max-width:760px){footer{align-items:flex-start;gap:18px}.footer-quote{max-width:70%}}
 
 @media(max-width:760px){footer{flex-wrap:wrap}.footer-quote{max-width:100%}}
+
+.masthead nav{align-items:center}.masthead nav a.social-icon{color:#686868;display:inline-flex;align-items:center;justify-content:center;min-width:32px;min-height:32px;padding:4px;text-decoration:none}.masthead nav a.social-icon:hover{color:#222}.social-icon svg{width:24px;height:24px;fill:currentColor;flex:none}
+@media(max-width:760px){.masthead nav a.social-icon{min-width:44px;min-height:44px}}
