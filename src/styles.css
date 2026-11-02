@@ -26,3 +26,10 @@ html[data-preview-scale="70"] dialog,html[data-preview-scale="70"] .skip{zoom:.7
 
 .masthead nav{align-items:center}.masthead nav a.social-icon{color:#686868;display:inline-flex;align-items:center;justify-content:center;min-width:32px;min-height:32px;padding:4px;text-decoration:none}.masthead nav a.social-icon:hover{color:#222}.social-icon svg{width:24px;height:24px;fill:currentColor;flex:none}
 @media(max-width:760px){.masthead nav a.social-icon{min-width:44px;min-height:44px}}
+
+.reading-list{list-style:none;margin:0;padding:0}
+.reading-list li{padding:18px 0 20px;border-top:0}
+.reading-list li+li{border-top:1px solid var(--rule)}
+.reading-list h2{margin:0;font-size:24px;font-weight:500;letter-spacing:-.2px;line-height:1.35}
+.reading-list .author{margin:6px 0 0;font-size:16px;line-height:1.4;color:var(--muted)}
+.reading-list .author a{color:inherit}
