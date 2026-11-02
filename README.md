@@ -22,4 +22,4 @@ The selected layout is rendered at 70% scale. Books and Musings remain empty unt
 
 ## Licenses
 
-Lato is included under the SIL Open Font License in `assets/fonts/OFL.txt`. The arrow icon uses Feather’s MIT license in `assets/feather-LICENSE`. Circuit artwork was generated for this site.
+Geist and Geist Mono (v1.9.0, from https://github.com/vercel/geist-font) are included under the SIL Open Font License in `assets/fonts/Geist-OFL.txt`. The arrow icon uses Feather’s MIT license in `assets/feather-LICENSE`. Circuit artwork was generated for this site.
