@@ -1,6 +1,6 @@
 # Books
 
-A mind deserves new ideas.
+In no particular order.
 
 ## [1873: The Rothschilds, the First Great Depression, and the Making of the Modern World](https://www.amazon.com/dp/1594204179)
 

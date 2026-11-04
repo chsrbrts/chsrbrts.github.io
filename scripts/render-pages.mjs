@@ -29,7 +29,7 @@ const bookAnchor=(url,text)=>'<a href="'+esc(url)+'" target="_blank" rel="noopen
 const bookList=p.books.length?'<ul class="reading-list">'+p.books.map(b=>'<li><h2>'+bookAnchor(b.url,b.title)+'</h2><p class="author">'+bookAnchor(b.url,b.author)+'</p>'+(b.note?'<p>'+esc(b.note)+'</p>':'')+'</li>').join('')+'</ul>':'<p class="empty">I’m putting this shelf together. Recommendations coming soon.</p>';
 const pages={
  'index.html':shell('Home',home),
- 'books/index.html':shell('Books',subpage('Books','A mind deserves new ideas.',bookList),'Books'),
+ 'books/index.html':shell('Books',subpage('Books',p.booksDescription,bookList),'Books'),
  'musings/index.html':shell('Musings',subpage('Musings','A work in progress. More to come.',p.musings.length?'<ul class="reading-list">'+p.musings.map(m=>'<li><h2>'+esc(m.title)+'</h2><p>'+esc(m.body)+'</p></li>').join('')+'</ul>':'<p class="empty">The first post is on its way.</p>'),'Musings'),
  'contact/index.html':shell('Contact',subpage('Get in touch.','Find me on LinkedIn or X.',socialLinks()),'Contact'),
  'text/index.html':shell('Text & data',subpage('Text & data','The same content, in a simpler format.','<dl class="formats"><div><dt><a href="/index.md">Markdown'+arrow+'</a></dt><dd>Bio, experience, and public contact details.</dd></div><div><dt><a href="/profile.json">JSON'+arrow+'</a></dt><dd>A structured profile, with books and musings.</dd></div><div><dt><a href="/books.md">Books in Markdown'+arrow+'</a></dt><dd>The reading list.</dd></div><div><dt><a href="/musings.md">Musings in Markdown'+arrow+'</a></dt><dd>The writing index.</dd></div></dl>'))
@@ -39,7 +39,7 @@ for(const [file,html]of Object.entries(pages)){mkdirSync(path.dirname(path.join(
 const md='# '+p.name+'\n\n'+p.location+'\n\n'+p.role+'\n\n'+p.intro+'\n\n## Previously\n\n'+p.experience.map(e=>'- '+e.organization+': '+e.role).join('\n')+'\n\n'+p.personal+'\n\n'+p.footerQuote+'\n\n## Public links\n\n'+Object.entries(p.publicLinks).map(([label,url])=>'- ['+label+']('+url+')').join('\n')+'\n\n## Contact\n\n'+p.contact.map(c=>'- ['+c.label+']('+c.url+')').join('\n')+'\n\n## Elsewhere on this site\n\n- [Books](/books/)\n- [Musings](/musings/)\n- [Structured profile](/profile.json)\n';
 writeFileSync(path.join(root,'index.md'),md);
 writeFileSync(path.join(root,'profile.json'),JSON.stringify(p,null,2)+'\n');
-writeFileSync(path.join(root,'books.md'),'# Books\n\nA mind deserves new ideas.\n\n'+(p.books.length?p.books.map(b=>'## ['+b.title+']('+b.url+')\n\n['+b.author+']('+b.url+')'+(b.note?'\n\n'+b.note:'')).join('\n\n'):'I’m putting this shelf together. Recommendations coming soon.')+'\n');
+writeFileSync(path.join(root,'books.md'),'# Books\n\n'+p.booksDescription+'\n\n'+(p.books.length?p.books.map(b=>'## ['+b.title+']('+b.url+')\n\n['+b.author+']('+b.url+')'+(b.note?'\n\n'+b.note:'')).join('\n\n'):'I’m putting this shelf together. Recommendations coming soon.')+'\n');
 writeFileSync(path.join(root,'musings.md'),'# Musings\n\nA work in progress. More to come.\n\n'+(p.musings.length?p.musings.map(m=>'## '+m.title+'\n\n'+m.body).join('\n\n'):'The first post is on its way.')+'\n');
 writeFileSync(path.join(root,'llms.txt'),'# Chase Roberts\n\nPersonal site. All public content is available without JavaScript.\n\n- [Profile and experience](/index.md)\n- [Structured data](/profile.json)\n- [Books](/books.md)\n- [Musings](/musings.md)\n');
 writeFileSync(path.join(root,'robots.txt'),'User-agent: *\nAllow: /\n\nSitemap: https://chsrbrts.github.io/sitemap.xml\n');
